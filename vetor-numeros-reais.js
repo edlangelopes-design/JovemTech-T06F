@@ -11,7 +11,7 @@ for (let i = 0; i < 8; i++) {
     // Usamos parseFloat para aceitar números decimais (com ponto)
     numeros[i] = parseFloat(prompt(`Digite o ${i + 1}º número: `));
     
-    // Soma o número atual ao total acumulado
+    // Soma o número atual ao total acumulado 
     soma += numeros[i];
 }
 

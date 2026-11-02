@@ -18,3 +18,6 @@ for (let i = 9; i >= 0; i--) {
 console.log("\n=== RESULTADO ===");
 console.log("Vetor original: ", vetorOriginal);
 console.log("Vetor invertido:", vetorInvertido);
+
+console.log(`=== RESULTADO ===
+    LINHA 1 ${vetorOriginal}`)
