@@ -1,0 +1,1 @@
+{"version":3,"file":"Personagem.d.ts","sourceRoot":"","sources":["../../src/models/Personagem.ts"],"names":[],"mappings":"AAOA,8BAAsB,UAAU;IAIrB,IAAI,EAAE,MAAM;IACnB,SAAS,CAAC,IAAI,EAAE,MAAM;gBADf,IAAI,EAAE,MAAM,EAAS,mCAAmC;IACrD,IAAI,EAAE,MAAM;IAKxB,QAAQ,CAAC,MAAM,IAAI,IAAI;IAGvB,KAAK,IAAI,IAAI;CAGd"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ex-personagem.d.ts","sourceRoot":"","sources":["../src/ex-personagem.ts"],"names":[],"mappings":"AAAA,cAAM,UAAU;IACd,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;gBAEH,IAAI,EAAE,MAAM;IAMxB,KAAK,IAAI,IAAI;CAGd;AAGD,QAAA,MAAM,KAAK,YAA0B,CAAC;AACtC,QAAA,MAAM,KAAK,YAA0B,CAAC"}

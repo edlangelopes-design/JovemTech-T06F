@@ -8,12 +8,22 @@
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "keywords": ["typescript", "poo", "jovemtech"],
+  "keywords": [
+    "typescript",
+    "poo",
+    "jovemtech"
+  ],
   "author": "Edi",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.10.2",
-    "tsx": "^4.19.2",
+    "tsx": "^4.23.15",
     "typescript": "^5.7.3"
-  }
+  },
+  "dependencies": {
+    "esbuild": "^0.28.1",
+    "fsevents": "^2.3.3",
+    "undici-types": "^6.21.0"
+  },
+  "type": "commonjs"
 }

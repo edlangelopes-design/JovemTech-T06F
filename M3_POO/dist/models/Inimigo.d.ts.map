@@ -1,0 +1,1 @@
+{"version":3,"file":"Inimigo.d.ts","sourceRoot":"","sources":["../../src/models/Inimigo.ts"],"names":[],"mappings":"AAMA,8BAAsB,OAAO;IAGlB,IAAI,EAAE,MAAM;IACZ,gBAAgB,EAAE,MAAM;gBADxB,IAAI,EAAE,MAAM,EACZ,gBAAgB,EAAE,MAAM;IAIjC,YAAY,IAAI,IAAI;IAKpB,QAAQ,CAAC,MAAM,IAAI,IAAI;CACxB"}
