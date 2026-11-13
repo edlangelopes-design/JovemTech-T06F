@@ -1,0 +1,19 @@
+{
+  "name": "modulo3-poo-typescript",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para o Módulo 3 - Programação Orientada a Objetos & TypeScript (Jovem Tech)",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["typescript", "poo", "jovemtech"],
+  "author": "Edi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
