@@ -13,7 +13,7 @@ const COR = {
   marrom: "\x1b[38;5;130m",
   pele: "\x1b[38;5;223m",
   branco: "\x1b[97m",
-} as const;
+} as const; 
 
 // ============================================================
 // CLASSE MÃE (Abstrata)

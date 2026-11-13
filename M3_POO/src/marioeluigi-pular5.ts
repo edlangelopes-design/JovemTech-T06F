@@ -12,7 +12,7 @@ abstract class Personagem {
   protected alturaMaximaPulo: number;
   protected velocidadePuloMs: number;
 
-  // Matriz de desenho compartilhada
+  // Matriz de desenho compartilhada 
   private matrizSprite = [
     "  MMMMM  ",
     " MMMMMMM ",
